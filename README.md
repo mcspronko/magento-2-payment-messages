@@ -1,5 +1,7 @@
 # Payment Messages for Magento 2.x
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/493c457ec0eb428ea7ad8338b642464e)](https://app.codacy.com/app/max.pronko/magento-2-payment-messages?utm_source=github.com&utm_medium=referral&utm_content=mcspronko/magento-2-payment-messages&utm_campaign=Badge_Grade_Dashboard)
+
 This module allows to pass error messages from Payment Service Providers to a Checkout Payments page.
 
 ## Implementation
